@@ -9,5 +9,5 @@ If you find how to fix the problems, you can contact me on Discord using my tag,
 
 
 # Usage
-Move mouse to move the camera.
+Move mouse to move the camera.  
 Arrow keys to move.
